@@ -14,6 +14,9 @@ The goal is to showcase how clustering can be applied to real-world datasets for
 
 ---
 
+## Observation
+<img width="666" height="507" alt="image" src="https://github.com/user-attachments/assets/e59c82b8-ca96-4a96-aef3-a6b7ed284017" />
+
 ## What is K-Means?
 K-Means is an unsupervised learning algorithm that:
 1. Chooses `K` cluster centers (centroids).
