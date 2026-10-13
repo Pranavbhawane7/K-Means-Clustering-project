@@ -12,6 +12,10 @@ It showcases how clustering can be applied to real-world datasets for **customer
 - Cluster analysis and interpretation.
 - Visual plots of clusters with centroids.
 
+## Observation
+<img width="666" height="507" alt="image" src="https://github.com/user-attachments/assets/1bcecc5d-1b66-4ef2-9d2d-99c5feb0e0d5" />
+
+
 ---
 
 ## 🧠 What is K-Means?
