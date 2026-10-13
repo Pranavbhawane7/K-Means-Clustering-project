@@ -1,4 +1,4 @@
-# 🌀 K-Means Clustering Project
+#  K-Means Clustering Project
 
 ## 📌 Overview
 This project demonstrates the use of **K-Means Clustering**, an unsupervised machine learning algorithm, to group data points into clusters based on similarity.  
